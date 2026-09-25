@@ -100,4 +100,4 @@ async def on_voice_state_update(member, before, after):
     except Exception as e:
         print(f"An error occurred in on_voice_state_update: {e}")
 
-bot.run("YOUR_BOT_TOKEN")
+bot.run("MTU1Mjg3MDE2MjY0MDgwMTg4Mw.GCeZsB.kdrb6aHE5PcDCU8a8cKPOTpcqgyKRg2WsQ9QQ4")
